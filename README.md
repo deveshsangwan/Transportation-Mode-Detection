@@ -17,6 +17,8 @@ Sensors included in the dataset are:
 * Game rotation vector
 * Gyroscope uncalibrated
 
+Dataset link  https://www.kaggle.com/fschwartzer/tmd-dataset-5-seconds-sliding-window
+
 ## Model Training
 The following classification models are used:
 * Random Forest
