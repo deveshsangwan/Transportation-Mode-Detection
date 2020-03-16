@@ -32,13 +32,13 @@ The following classification models are used:
 ## Results
 | Model | Accuracy |
 | ----- | -------- |
-| Random Forest | 0.948 |
-| lightGBM | 0.839 |
-| Gradient Boosting Classifier | 0.958 |
-| KNN | 0.958 |
-| Naivye Bayes | 0.557 |
-| SVC | 0.750 |
-| xgboost | 0.967 |
+| Random Forest | 0.945 |
+| lightGBM | 0.851 |
+| Gradient Boosting Classifier | 0.963 |
+| KNN | 0.821 |
+| Naivye Bayes | 0.586 |
+| SVC | 0.745 |
+| xgboost | 0.973 |
 
 ## Conclusion
-Out of all the algorithms used, xgboost gives the best accuracy of 0.9677.
+Out of all the algorithms used, xgboost gives the best accuracy of 0.9737.
