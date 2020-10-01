@@ -42,3 +42,5 @@ The following classification models are used:
 
 ## Conclusion
 Out of all the algorithms used, xgboost gives the best accuracy of 0.9737.
+
+Good Luck!
